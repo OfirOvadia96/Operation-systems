@@ -26,5 +26,5 @@ https://man7.org/linux/man-pages/man1/strace.1.html
 ```sh
    ./main1_1
    ./main1_2
-   ./ main1_3
+   ./main1_3
    ```
