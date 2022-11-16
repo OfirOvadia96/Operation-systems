@@ -16,3 +16,19 @@ Improve the running time of the programs:
 <h3> My program: </h3> 
 
 * "Solution.c"
+
+
+<h3> What do the programs actually do? </h3>
+Classifies random numbers if they are prime numbers
+
+
+<h4> Compile: </h4>
+
+```sh
+   make
+   ```
+<h4> Run: </h4>
+
+```sh
+   ./solution
+   ```
