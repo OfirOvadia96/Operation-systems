@@ -2,11 +2,11 @@
 <h1 align = "center"> compiler & shared libraries </h1>
 
 
-<h3> Introductory task with the aim of: </h3>
+<h3> Introduction task for: </h3>
 
-* To create shared libraries
-* For loading a library at runtime (dlopen,dlsym)
-* To use flags like: pic, ldl, -l, -L, 
+* Create shared libraries
+* Loading a library at runtime (dlopen,dlsym)
+* Use flags like: pic, ldl, -l, -L, 
 * Using basic Linux tools such as: strace , nm
 
 For information about these flags and more:
