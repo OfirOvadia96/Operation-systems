@@ -16,3 +16,15 @@ For information about strace tools:
 https://man7.org/linux/man-pages/man1/strace.1.html
 
 
+<h4> Compile: </h4>
+
+```sh
+   make
+   ```
+<h4> Run: </h4>
+
+```sh
+   ./main1_1
+   ./main1_2
+   ./ main1_3
+   ```
