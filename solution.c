@@ -76,7 +76,6 @@ int main(int argc, char *argv[]){
 		pthread_join(threads[i],NULL);
 	}
 	
-	//keep the out format as this!!
 	printf("%ld,%ld\n",sum,primeCounter);
 
     exit(0);
